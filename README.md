@@ -1,2 +1,2 @@
-# json-formatter
-使JSON容易阅读
+# JSON-Formatter
+JSON格式化工具
